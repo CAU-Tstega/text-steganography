@@ -2,7 +2,7 @@
 
 ## Summary
 
-##### This repository contains a PyTorch reimplementation for the text steganography based on Seqgan language model and probability adaptive embedding algorithm. 
+##### This repository contains a reimplementation for the linguistic steganography based on Seqgan language model and probability adaptive embedding algorithm. 
 
 ## Requirements
 ##### TensorFlow = 1.13
