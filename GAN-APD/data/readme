@@ -1,0 +1,5 @@
+====================================================
+================Requirements========================
+====================================================
+
+There should be the corpra for training SeqGAN language model, which are named as “coco.txt”, "twitter.txt", "movie.txt"
