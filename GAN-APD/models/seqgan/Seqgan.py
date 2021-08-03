@@ -27,7 +27,7 @@ class Seqgan(Gan,object):
         self.num_topN = 4
         self.dropout_keep_prob = 0.5
         
-        self.train_data = 'data/movie-filter30-150k.txt'
+        self.train_data = 'data/movie.txt'
 
         self.oracle_file = 'save/oracle.txt'
         self.generator_file = 'save/generator.txt'
