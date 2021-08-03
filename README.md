@@ -2,7 +2,7 @@
 
 ## Summary
 
-##### This repository contains a reimplementation for the linguistic steganography based on Seqgan language model and probability adaptive embedding algorithm. 
+##### This repository contains a reimplementation for this paper "linguistic steganography based on Adaptive Probability Distribution"
 
 ## Requirements
 ##### TensorFlow = 1.13
