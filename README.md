@@ -4,6 +4,7 @@
 
 ##### This repository contains a reimplementation for this paper "linguistic steganography based on Adaptive Probability Distribution" 
 ##### The codes of other generative text steganographic methods will be updated soon!
+##### If you have any questions, please connect us immediately by the e-mail (hunanpwl@cau.edu.cn)
 
 ## Requirements
 ##### TensorFlow = 1.13
