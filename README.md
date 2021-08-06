@@ -16,6 +16,6 @@
 @inproceedings{Zhou2021TDSC, <br>
 title={Linguistic Steganography Based on Adaptive Probability Distribution}, <br>
 author={Xuejing, Zhou, Wanli Peng, Boya Yang, Juan Wen, Yiming Xue, Ping Zhong}, <br>
-booktitle={IEEE Transactions on Depandable and Secure Cumpting (TDSC)}, <br>
+booktitle={IEEE Transactions on Depandable and Secure Computing (TDSC)}, <br>
 year={2021} <br>
 }
